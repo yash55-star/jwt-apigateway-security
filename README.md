@@ -11,6 +11,7 @@ curl --location --request POST 'http://localhost:8080/auth/register' \
     "password":"Pwd1",
     "email":"basant@gmail.com"
 }'
+``
 
 ```
 
